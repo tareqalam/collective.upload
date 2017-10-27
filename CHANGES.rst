@@ -3,10 +3,11 @@ Changelog
 
 There's a frood who really knows where his towel is.
 
-9.18.0rc3 (unreleased)
+9.19.1rc0 (unreleased)
 ^^^^^^^^^^^^^^^^^^^^^^
 
-- Nothing changed yet.
+- Update jQuery File Upload Plugin to version 9.19.1.
+  [rodfersou]
 
 
 9.18.0rc2 (2017-04-24)
